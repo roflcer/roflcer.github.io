@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Yesenia Valles"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/itme.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "defend against the dark arts:)!"
   location         : "ur network"
   email            : "vallesyesenia95@gmail.com"
